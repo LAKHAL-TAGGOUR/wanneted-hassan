@@ -1,0 +1,6 @@
+{
+  "name": "Open Library Reading Log",
+  "description": "Explore Open Library patron reading logs, query the Solr Search API (search.json), test the Cover & Author Photo API (covers.openlibrary.org) with guidelines, and perform OCR fulltext search inside books via the Internet Archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
